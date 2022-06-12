@@ -1,0 +1,72 @@
+
+		body{
+			margin: 0;
+		}
+		.goodman{
+			background: black;
+			text-align: center;
+			height: 50vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-image: url(../images/goodman.jpg);
+			background-size: cover;
+
+
+		}
+		.badman{
+			background: #000000bd;
+			text-align: center;
+			height: 50vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-image: url(../images/badman.jpg);
+			background-size: cover;
+			background-position: center;
+
+		}
+			.goodgril{
+						background: black;
+						text-align: center;
+						height: 50vh;
+						display: flex;
+						justify-content: center;
+						align-items: center;
+						background-image: url(../images/goodgirl.jpg);
+			            background-size: cover;
+			            background-position: center;
+
+					}
+					.badgril{
+			background: #0000004d;
+			text-align: center;
+			height: 50vh;
+			display: flex; 
+			justify-content: center;
+			align-items: center;
+			background-image: url(../images/badgirl.jpg);
+			            background-size: cover;
+			            background-position: center;
+
+		}
+
+		h1 {
+    font-size: 60px;
+    color: white;
+    margin: 0;
+    font-family: 'Alfa Slab One', cursive;
+    /* text-transform: uppercase; */
+    letter-spacing: 3px;
+}
+		strong{
+			font-family: 'Dancing Script', cursive;
+			font-weight: 900;
+			font size: 90px;
+		}
+         p{
+         color: white;	
+         font-style: 20px;
+         }
+
+	</style>
